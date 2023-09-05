@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashlynn4567/Book-Search-Engine.git"
+    "url": "git+https://github.com/JoseSeto/book-search.git"
   },
   "bugs": {
-    "url": "https://github.com/ashlynn4567/Book-Search-Engine/issues"
+    "url": "https://github.com/JoseSeto/book-search/issues"
   },
-  "homepage": "https://github.com/ashlynn4567/Book-Search-Engine#readme"
+  "homepage": "https://github.com/JoseSeto/book-search"
 }
